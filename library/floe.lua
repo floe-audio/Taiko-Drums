@@ -10,7 +10,7 @@
 floe.set_required_floe_version("1.1.1")
 
 local library = floe.new_library({
-    name = "SCC Taiko Drums",
+    name = "Taiko Drums",
     tagline = "Simple multisampled taiko drums",
     description =
     "A free multisampled Japanese taiko drum library with multiple velocity layers and round-robin samples. Each drum is triggered by a pair of adjacent keys (white + black) for easy drum rolls via trills. A great starting point for taiko percussion. This is a slightly modified version of S. Christian Collins' SCC Taiko Drums v1.0. This port was made by the Floe team.",
