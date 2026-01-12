@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="2.2220831"
+     inkscape:cx="-39.827494"
+     inkscape:cy="45.002818"
+     inkscape:window-width="2560"
+     inkscape:window-height="1413"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <rect
+     style="fill:#4c3022;fill-opacity:1"
+     id="background"
+     width="26.458332"
+     height="26.458332"
+     x="0"
+     y="0" />
+  <g
+     id="g1"
+     transform="matrix(1.2263608,0,0,1.2263608,-2.9945646,-3.479999)">
+    <path
+       style="fill:#a0522d;fill-opacity:1"
+       id="drum-body-full"
+       d="m 7.229166,8 c -0.819444,3.666667 -0.819444,6.633333 0,11.3 2,0 4.021171,1.799989 6.021171,1.799989 2,0 3.978829,-1.799989 5.978829,-1.799989 0.819445,-4.666667 0.819445,-7.633333 0,-11.3 z"
+       sodipodi:nodetypes="ccsccc" />
+    <path
+       style="fill:#7d3f1a;fill-opacity:0.5"
+       id="drum-right-shade"
+       d="m 13.229166,8 v 12.5 l 6,-1.2 c 0.819444,-4.666667 0.819445,-7.633333 0,-11.3 z"
+       sodipodi:nodetypes="ccccc" />
+    <ellipse
+       style="fill:#f5deb3;fill-opacity:1"
+       id="drum-top"
+       cx="13.229166"
+       cy="8"
+       rx="6"
+       ry="1.8" />
+    <ellipse
+       style="fill:none;stroke:#2b2b2b;stroke-width:0.4;stroke-opacity:1"
+       id="drum-top-rim"
+       cx="13.229166"
+       cy="8"
+       rx="6"
+       ry="1.8" />
+    <path
+       style="fill:#f5deb3;fill-opacity:1"
+       id="drum-bottom-wrap"
+       d="m 7.229166,18.5 a 6,1.8 0 0 0 12,0 v 0.8 a 6,1.8 0 0 1 -12,0 z" />
+    <path
+       style="fill:none;stroke:#2b2b2b;stroke-width:0.3"
+       id="drum-bottom-binding-top"
+       d="m 7.229166,18.5 a 6,1.8 0 0 0 12,0" />
+    <path
+       style="fill:none;stroke:#2b2b2b;stroke-width:0.3"
+       id="drum-bottom-binding-bottom"
+       d="m 7.229166,19.3 a 6,1.8 0 0 0 12,0" />
+    <rect
+       style="fill:#2b2b2b;fill-opacity:1"
+       id="emblem"
+       width="2.2"
+       height="2.2"
+       x="12.129166"
+       y="12.129166"
+       transform="rotate(-45,13.229166,13.229166)" />
+  </g>
+</svg>
